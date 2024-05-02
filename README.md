@@ -10,6 +10,8 @@ If time permits in the future, this project will be fleshed out a little more, a
 
 However, whoever is reading this, wishes to implement, test and commit to the project, feel free to do so.
 
+TODO: Currently the client sends a memory result from an Address (Offset) to the client, and the server displays the result. An expected result and byte(ie, 30603080, 4) should be checked server side against the client sided result for inconsistency. (Check failure/cheating)
+
 Documentation for Heartbeat Server and Client
 
 Introduction
